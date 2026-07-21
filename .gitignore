@@ -1,0 +1,18 @@
+# Private Arduino IoT Cloud and Wi-Fi credentials
+arduino_secrets.h
+
+# Arduino build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# PlatformIO (if used later)
+.pio/
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
