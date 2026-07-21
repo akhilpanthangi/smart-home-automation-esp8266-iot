@@ -5,7 +5,7 @@
 [![Control](https://img.shields.io/badge/control-Google%20Home-4285F4)](https://home.google.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-An IoT-based home automation system that controls **two lights and two fans**
+An IoT-based home automation system that controls **lights and fans and other electronic appliances**
 using a NodeMCU ESP8266 and a four-channel relay module. Appliances can be
 operated with Google Home voice commands or manually using digital switches in
 the Google Home app.
