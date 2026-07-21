@@ -138,7 +138,7 @@ GitHub. See [SECURITY.md](SECURITY.md) for the credential-rotation checklist.
 
 ## Author
 
-**Hasnain Ali Asghar**
+**Akhil Panthangi**
 
 ## License
 
